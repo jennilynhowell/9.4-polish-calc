@@ -1,6 +1,7 @@
-import java.util.ArrayList;
-import java.util.EmptyStackException;
+
 import java.util.Stack;
+
+//Got a lot of help from these examples: https://codereview.stackexchange.com/questions/120451/reverse-polish-notation-calculator-in-java
 
 public class ReversePolishCalc {
 
